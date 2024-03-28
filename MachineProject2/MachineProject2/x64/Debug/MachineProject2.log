@@ -1,0 +1,6 @@
+﻿  Performing Custom Build Tools
+  SAXPY.c
+D:\DLSU\LBYARCH\MachineProject2\MachineProject2\SAXPY.c(15,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\DLSU\LBYARCH\MachineProject2\MachineProject2\SAXPY.c(15,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\DLSU\LBYARCH\MachineProject2\MachineProject2\SAXPY.c(15,45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  MachineProject2.vcxproj -> D:\DLSU\LBYARCH\MachineProject2\x64\Debug\MachineProject2.exe

@@ -1,0 +1,6 @@
+﻿  SAXPY.c
+D:\DLSU\LBYARCH\MachineProject2\MachineProject2\SAXPY.c(15,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\DLSU\LBYARCH\MachineProject2\MachineProject2\SAXPY.c(15,33): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\DLSU\LBYARCH\MachineProject2\MachineProject2\SAXPY.c(15,45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+SAXPY.obj : error LNK2019: unresolved external symbol _saxpy_asm referenced in function _main
+D:\DLSU\LBYARCH\MachineProject2\Debug\MachineProject2.exe : fatal error LNK1120: 1 unresolved externals
