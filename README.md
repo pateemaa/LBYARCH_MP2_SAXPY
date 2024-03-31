@@ -10,6 +10,6 @@
 
 **Table 1. Summary of execution time in CPU clock time**
 
-The assembly version constantly outperformed the C version across all input sizes (n) and modes. As the input size increases, the performance difference between C and Assembly becomes prominent. As shown in table 1, at n = 2<sup>20</sup>, assembly is approximately 0.001933 seconds faster than C in debug mode and approximately 0.001197 faster in release mode. Similarly, at n = 2<sup>24</sup>, assembly is approximately 0.0152 seconds faster than C in debug mode and approximately 0.013334 faster in release mode. Lastly, at n = 2<sup>27</sup>, assembly is approximately 0.1866 seconds faster than C in debug mode and approximately 0.121366 faster in release mode.
+The assembly version constantly outperformed the C version across all input sizes (n) and modes. As the input size increases, the performance difference between C and Assembly becomes prominent. As shown in table 1, at n = 2<sup>20</sup>, assembly is approximately 0.001933 seconds faster than C in debug mode and approximately 0.001197 seconds faster in release mode. Similarly, at n = 2<sup>24</sup>, assembly is approximately 0.0152 seconds faster than C in debug mode and approximately 0.013334 seconds faster in release mode. Lastly, at n = 2<sup>27</sup>, assembly is approximately 0.1866 seconds faster than C in debug mode and approximately 0.121366 seconds faster in release mode.
 
 ### Screenshots of output
